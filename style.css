@@ -1,0 +1,79 @@
+body {
+    background-color:rgb(206, 153, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.menu {
+    list-style-type: none ;
+}
+
+.menu a {
+    color: aliceblue;
+    font-size: 17px;
+    font-style: italic;
+    text-decoration: none;
+    
+}
+
+.menu a:hover{
+    font-weight: bold;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+hr {
+    background-color: aliceblue;
+    width: 25%;
+    height: 2px;
+}
+
+.about-site {
+    color: aliceblue;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+h2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+
+.short-info {
+    color: aliceblue;
+    font-size: 17px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.long-info {
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    list-style-type: square;
+}
+
+.list-info {
+    color: aliceblue;
+    font-style: inherit;
+    list-style-type: square;
+}
+
+.disc-name {
+    color: aliceblue;
+}
+
+.credit {
+    color: aliceblue;
+}
+
+.horiz-line {
+    font-weight: 100px;
+}
